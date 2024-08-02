@@ -1,0 +1,11 @@
+C:\Users\HUY XL\Downloads\QLNS-master\QLNS-master\bin\Debug\QLNS.exe.config
+C:\Users\HUY XL\Downloads\QLNS-master\QLNS-master\bin\Debug\QLNS.exe
+C:\Users\HUY XL\Downloads\QLNS-master\QLNS-master\bin\Debug\QLNS.pdb
+C:\Users\HUY XL\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.csproj.AssemblyReference.cache
+C:\Users\HUY XL\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.Form1.resources
+C:\Users\HUY XL\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.FormNhanVien.resources
+C:\Users\HUY XL\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.Properties.Resources.resources
+C:\Users\HUY XL\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.csproj.GenerateResource.cache
+C:\Users\HUY XL\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+C:\Users\HUY XL\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.exe
+C:\Users\HUY XL\Downloads\QLNS-master\QLNS-master\obj\Debug\QLNS.pdb
